@@ -1,0 +1,6 @@
+segment,evidence,strategy,kpi_to_test
+Whales,"39 customers, 27.9% of spend, recency 4 d, 46 orders","Dedicated account management, early access, review of terms; win back the quiet ones first",Retention of the whales; spend per whale
+Core Loyal,"743 customers, 39.2% of spend, recency 8 d, 9 orders",Loyalty perks and cross-sell of related product ranges,Orders per customer; share moving up
+Due-Now Regulars,"1183 customers, 22.0% of spend, recency 56 d, 4 orders",Reorder reminder before their usual gap ends; bundle offer,Share reordering within their usual gap
+Recent Light Buyers,"826 customers, 4.7% of spend, recency 18 d, 2 orders",Welcome / second-purchase sequence with a small incentive,Second-purchase rate within 60 days
+Dormant One-Timers,"1542 customers, 6.1% of spend, recency 184 d, 1 orders",Low-cost reactivation email only; no heavy discount,Reactivation rate vs campaign cost
